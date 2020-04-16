@@ -4,7 +4,7 @@
   "description": "",
   "main": "pixelated-face.js",
   "scripts": {
-    "start": "parcel face.html"
+    "start": "parcel index.html"
   },
   "author": "",
   "license": "ISC",
