@@ -1,7 +1,9 @@
 # Face-Detection-and-Censorship
 
-Allow access your webcam in order to check out this app. 
+Allow access your webcam in order to check out this app.
+
 Made by following @wesbos's course 'Beginner Javascript'.
+
 Puts a censorship mask to your face by using FaceDetection API.
 
 Uses: **HTML5 canvas, CSS, JS, Parcel**.
