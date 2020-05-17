@@ -1,5 +1,7 @@
 # Face-Detection-and-Censorship
 
+**In order to use this application you need to use Chrome with enabled "Experimental Web Platform features" flag**
+
 Allow access your webcam in order to check out this app.
 
 Made by following @wesbos's course 'Beginner Javascript'.
